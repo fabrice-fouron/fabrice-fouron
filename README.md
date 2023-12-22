@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @fabrice-fouron
+- 👋 Hi, I’m Fabrice Fouron
 - 👀 I’m interested in volleyball, programming, fiction
-- 🌱 I’m am fluent in Java and Python
-- 📖 Currently learning Bash
+- 🌱 My main languages are Python and Java
+- 📖 Currently learning Bash and C/C++
 
 <!---
 fabrice-fouron/fabrice-fouron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
