@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Fabrice Fouron
-- 👀 I’m love volleyball, track and field , programming, fiction
+- 👀 I love volleyball, track and field , programming, fiction
 - 🌱 The primary language I use is Python
 - 📖 I am proficient and still learning others like Java, Bash and C/C++
 
