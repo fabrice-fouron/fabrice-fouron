@@ -7,7 +7,5 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fabrice-fouron&show_icons=true&theme=dark&include_all_commits=true&rank_icon=github">
-  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabrice-fouron&size_weight=0.5&count_weight=0.5&layout=pie&theme=dark">
 </div>
